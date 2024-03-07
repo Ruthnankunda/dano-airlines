@@ -2,7 +2,7 @@
 customer satisfaction analysis
 ## project overview
 
-this data analysis aims to provide insights into the the satisfaction rate that dipped under 50% for the first time ever,by analyzing data we seek to find identify trends ,make data -driven recommendations,and gain a deeper understanding of the company's perfomance.
+This data analysis aims to provide insights into the the satisfaction rate that dipped under 50% for the first time ever,by analyzing data we seek to find identify trends ,make data -driven recommendations,and gain a deeper understanding of the company's perfomance.
 
 ## Data Sources 
 
