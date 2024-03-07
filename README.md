@@ -37,6 +37,8 @@ the analysis results are summurised  as follows ;
 ##### 4.56% of Dano customers in this survey rating were travelling for business compared to 30% travelling for personal issues
 ##### 5.47% travelled in the business class ,  44% economy class, 7.25% economy plus 
 ##### 6. all services were rated below 5% ,in-flight wifi-service at 2.73%, gate-location at 2.98%, ease of on-line booking at 2.76%
+![dano airlines dashboard](https://github.com/Ruthnankunda/dano-airlines/assets/161227823/f9feffc6-2b2b-402f-8b7f-0e7b6273ea7e)
+
 
 
 ### Recomendation 
